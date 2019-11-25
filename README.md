@@ -20,6 +20,10 @@ You'll be prompted to fill in any required fields and your commit messages will 
 
 Jest is a delightful JavaScript Testing Framework with a focus on simplicity. Run `npm run test` to start testing your project.
 
+### `npm run lint`
+
+Runs Lint.dev commands from inside your repository
+
 ### `npm run build`
 
 Builds the app for production to the `build` folder.<br>
